@@ -1,7 +1,7 @@
 <div class="flex flex-col justify-between md:flex-row md:px-12 lg:px-20 p-4 dark:bg-gray-800 transition duration-500">
     <div class="text-container md:mt-10 md:w-1/2">
         <p class="text-black bg-gray-200 dark:bg-gray-700 rounded-md px-2 py-1 text-sm inline-block dark:text-white my-4">
-            You're Friendly Neighbourhood Software Engineer
+            Your Friendly Neighbourhood Software Engineer
         </p>
         <h1 class="text-2xl md:text-4xl text-black font-bold dark:text-white tracking-normal leading-10"><span
                     class="text-tmk-blue">Sofia </span>Vicedomini</h1>
